@@ -763,6 +763,7 @@
 - [大蚂蚁 (BigAnt) 即时通讯系统 PublicController 任意文件读取漏洞](https://mrxn.net/jswz/bigant-Public-download.html)
 - [东胜物流软件 MsChDuiController 多个SQL注入漏洞](https://mrxn.net/jswz/dongsheng-MsChDuiController-sqli.html)
 - [九佳易管理系统 picHY.ashx SQL 注入漏洞](https://mrxn.net/jswz/a8erp-HuiYuanDangAn-picHY-sqli.html)
+- [青龙面板最新版v2.20.1 鉴权绕过致RCE](https://mrxn.net/jswz/qinglong-auth-bypass-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
