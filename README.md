@@ -765,6 +765,7 @@
 - [九佳易管理系统 picHY.ashx SQL 注入漏洞](https://mrxn.net/jswz/a8erp-HuiYuanDangAn-picHY-sqli.html)
 - [青龙面板最新版v2.20.1 鉴权绕过致RCE](https://mrxn.net/jswz/qinglong-auth-bypass-rce.html)
 - [大蚂蚁 (BigAnt) 即时通讯系统 moveDept SQL注入漏洞](https://mrxn.net/jswz/bigant-dept-moveDept-sqli.html)
+- [九佳易管理系统 Ajax_XT.ashx SQL 注入漏洞](https://mrxn.net/jswz/a8erp-Ajax_XT-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
