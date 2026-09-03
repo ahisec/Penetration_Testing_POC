@@ -866,6 +866,7 @@
 - [JimuReport积木报表最新版v2.5.1 /jmreport/excelQueryByTemplate接口未认证报表枚举信息泄露漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-excelquerybytemplate-enum-data-leak.html)
 - [JimuReport积木报表最新版v2.5.1 upload与数据源组合的H2 zip协议链RCE漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-h2-zip-chain-rce.html)
 - [JimuReport积木报表最新版v2.5.1 testConnection接口H2的INIT参数unicode大小写绕过RCE漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-testconnection-h2-init-rce.html)
+- [浪潮CRM(医疗行业版)ConNetHelp.ashx SQL注入漏洞挖掘和分析](https://mrxn.net/jswz/Genersoft-Login-ConNetHelp-conditiondefine-ConNetHelp-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
