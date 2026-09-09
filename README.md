@@ -875,6 +875,7 @@
 - [CRMEB系统最新版v6.0.0 backup_read接口SQL注入漏洞](https://mrxn.net/jswz/crmeb-v2-backup-read-sqli.html)
 - [友加畅捷管理系统 UploadFormImg.ashx文件上传漏洞（CVE-2026-86272）](https://mrxn.net/jswz/youjia-uploadformimg-uploadimgfile-rce.html)
 - [孚盟云CRM ReceivableList.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Receivables-ReceivableList-sqli.html)
+- [索贝融媒体 getOmnfig 接口配置信息泄露漏洞](https://mrxn.net/jswz/sobey-mch-getomnfig-config-leak.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
