@@ -880,6 +880,7 @@
 - [索贝融媒体 /mch/lzy/getArticleList 信息泄露漏洞](https://mrxn.net/jswz/sobey-lzy-getArticleList-user-leak.html)
 - [索贝融媒体 TestController接口reUploadBase64 SQL注入漏洞](https://mrxn.net/jswz/sobey-mcheditor-testcontroller-reuploadbase64-sqli.html)
 - [CRMEB系统最新版v6.0.0 image_base64接口phar反序列化RCE漏洞](https://mrxn.net/jswz/crmeb-image_base64-phar-deserialization-pop-chain-rce.html)
+- [正方数字化校园门户存在SQL注入](https://mrxn.net/jswz/zfsoft-dwr-CalendarNewsAjax-getlatestNewsList-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
